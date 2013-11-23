@@ -7,13 +7,14 @@ Here is some screenshots:
 
 C++
 
-[cpp](https://raw.github.com/ChasingLogic/ChasingLogic-colorscheme-vim/master/cpp.png)
+![cpp](https://raw.github.com/ChasingLogic/ChasingLogic-colorscheme-vim/master/cpp.png)
 
 
 Python
-[python](https://raw.github.com/ChasingLogic/ChasingLogic-colorscheme-vim/master/python.png)
+
+![python](https://raw.github.com/ChasingLogic/ChasingLogic-colorscheme-vim/master/python.png)
 
 
 Golang & NERDTree
 
-[golang](https://raw.github.com/ChasingLogic/ChasingLogic-colorscheme-vim/master/golang.png)
+![golang](https://raw.github.com/ChasingLogic/ChasingLogic-colorscheme-vim/master/golang.png)
