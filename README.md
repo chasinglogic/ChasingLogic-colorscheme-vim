@@ -7,14 +7,14 @@ Here is some screenshots:
 
 C++
 
-!image
+[cpp](cpp.png)
 
 
 Python
 
-!image
+[python](python.png)
 
 
 Golang & NERDTree
 
-!image
+[golang](golang.png)
